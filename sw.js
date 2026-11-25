@@ -1,0 +1,5 @@
+const CACHE='rta-trainer-v2-20261125c';
+const CORE=['./','./index.html','./style.css','./engine.js','./i18n.js','./app.js','./questions.json','./captures.json','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png',...Array.from({length:100},(_,i)=>'./images/q'+String(i+1).padStart(3,'0')+'.webp')];
+self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)));self.skipWaiting()});
+self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k!==CACHE&&(k.startsWith('rta-trainer-v2-')||k==='rta-v1'))await caches.delete(k);await self.clients.claim()})()));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith((async()=>{const cache=await caches.open(CACHE),hit=await cache.match(e.request);if(hit)return hit;try{const r=await fetch(e.request);if(r.ok)await cache.put(e.request,r.clone());return r}catch{if(e.request.mode==='navigate')return await cache.match('./index.html');return Response.error()}})())});

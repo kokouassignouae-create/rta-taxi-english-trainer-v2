@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "S001",
+    "question": "What do you understand by downtown?",
+    "options": [
+      "Central business area",
+      "Railway station",
+      "Airport",
+      "I don't know"
+    ],
+    "answer": 0,
+    "explanation": "Downtown désigne le centre-ville, souvent le quartier central des affaires.",
+    "source": "capture-text",
+    "image": "images/q001.webp",
+    "sourceNumber": 1,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Downtown means the city centre, often its central business district."
+  },
+  {
+    "id": "S002",
+    "question": "Tourists and locals go to the old souk to do ...",
+    "options": [
+      "Swimming",
+      "Running",
+      "Shopping",
+      "Watch a movie"
+    ],
+    "answer": 2,
+    "explanation": "Un souk est un marché : on y fait des achats.",
+    "source": "capture-text",
+    "image": "images/q002.webp",
+    "sourceNumber": 2,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A souk is a market, so shopping is the intended activity."
+  },
+  {
+    "id": "S003",
+    "question": "When taking the tollway, there is an ...",
+    "options": [
+      "Fit",
+      "Extra charge",
+      "Free",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Une tollway est une route à péage : elle entraîne un coût supplémentaire.",
+    "source": "capture-text",
+    "image": "images/q003.webp",
+    "sourceNumber": 3,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-3",
+    "explanation_en": "A tollway is a road that may involve an additional toll charge."
+  },
+  {
+    "id": "S004",
+    "question": "... is bad for your health.",
+    "options": [
+      "Talking",
+      "Smoking",
+      "Training",
+      "Running"
+    ],
+    "answer": 1,
+    "explanation": "Smoking signifie fumer.",
+    "source": "capture-text",
+    "image": "images/q004.webp",
+    "sourceNumber": 4,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Smoking is the intended word in this health vocabulary exercise."
+  },
+  {
+    "id": "S005",
+    "question": "It is a must for taxi drivers and passengers to wear a ... at all times.",
+    "options": [
+      "Sunglasses",
+      "Hat",
+      "Seat belt",
+      "Coat"
+    ],
+    "answer": 2,
+    "explanation": "Seat belt signifie ceinture de sécurité.",
+    "source": "capture-text",
+    "image": "images/q005.webp",
+    "sourceNumber": 5,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A seat belt is the safety restraint worn by drivers and passengers."
+  },
+  {
+    "id": "S006",
+    "question": "... in the summer makes the car very comfortable.",
+    "options": [
+      "Passenger",
+      "Air conditioning",
+      "Rain",
+      "Traffic"
+    ],
+    "answer": 1,
+    "explanation": "Air conditioning signifie climatisation.",
+    "source": "capture-text",
+    "image": "images/q006.webp",
+    "sourceNumber": 6,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-6",
+    "explanation_en": "Air conditioning cools the cabin in summer."
+  },
+  {
+    "id": "S007",
+    "question": "Taxi drivers have to be properly ...",
+    "options": [
+      "Run",
+      "Trained",
+      "Charged",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Properly trained signifie correctement formés.",
+    "source": "capture-text",
+    "image": "images/q007.webp",
+    "sourceNumber": 7,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Properly trained means having received suitable training."
+  },
+  {
+    "id": "S008",
+    "question": "The passenger did not have cash with him, he wanted to pay by ...",
+    "options": [
+      "Gold",
+      "Credit Card",
+      "Silver",
+      "Paper"
+    ],
+    "answer": 1,
+    "explanation": "Une carte bancaire permet de payer sans espèces.",
+    "source": "capture-text",
+    "image": "images/q008.webp",
+    "sourceNumber": 8,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A credit card can be used to pay without cash."
+  },
+  {
+    "id": "S009",
+    "question": "The people called an ... to take the injured person to the hospital.",
+    "options": [
+      "Plane",
+      "Elephant",
+      "No one",
+      "Ambulance"
+    ],
+    "answer": 3,
+    "explanation": "Une ambulance transporte les blessés vers l’hôpital.",
+    "source": "capture-text",
+    "image": "images/q009.webp",
+    "sourceNumber": 9,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "An ambulance transports injured people to hospital."
+  },
+  {
+    "id": "S010",
+    "question": "When we get ... we may catch a ... .",
+    "options": [
+      "Tired, train",
+      "Tired, bus",
+      "Wet, fire",
+      "Wet, cold"
+    ],
+    "answer": 3,
+    "explanation": "Réponse attendue pour cet exercice d’anglais : wet / cold (mouillé / rhume). Un rhume est une infection virale ; être mouillé n’en est pas à lui seul la cause.",
+    "source": "capture-text",
+    "image": "images/q010.webp",
+    "sourceNumber": 10,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The expected English completion is wet / cold. However, a cold is a viral infection; being wet alone does not cause it."
+  },
+  {
+    "id": "S011",
+    "question": "Taxi drivers should do their best to make every journey a ... experience for passengers.",
+    "options": [
+      "Horrible",
+      "Pleasant",
+      "Difficult",
+      "Annoying"
+    ],
+    "answer": 1,
+    "explanation": "Pleasant signifie agréable.",
+    "source": "capture-text",
+    "image": "images/q011.webp",
+    "sourceNumber": 11,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Pleasant means enjoyable or agreeable."
+  },
+  {
+    "id": "S012",
+    "question": "It's ... to drive a car when it rains heavily.",
+    "options": [
+      "Very safe",
+      "Not allowed",
+      "Dangerous",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Dangerous signifie dangereux ; de fortes pluies rendent la conduite plus difficile.",
+    "source": "capture-text",
+    "image": "images/q012.webp",
+    "sourceNumber": 12,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Dangerous is the intended adjective: heavy rain makes driving more difficult."
+  },
+  {
+    "id": "S013",
+    "question": "You can visit the ... if you are interested in the history of this country.",
+    "options": [
+      "Zoo",
+      "Park",
+      "Desert",
+      "Museum"
+    ],
+    "answer": 3,
+    "explanation": "Un musée présente notamment l’histoire d’un pays.",
+    "source": "capture-text",
+    "image": "images/q013.webp",
+    "sourceNumber": 13,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A museum can provide information about a country's history."
+  },
+  {
+    "id": "S014",
+    "question": "The passenger caught the taxi on a ... day.",
+    "options": [
+      "Funny",
+      "Rainy",
+      "Sad",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "Rainy day signifie jour pluvieux, l’expression attendue ici.",
+    "source": "capture-text",
+    "image": "images/q014.webp",
+    "sourceNumber": 14,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Rainy day is the intended expression for a day with rain."
+  },
+  {
+    "id": "S015",
+    "question": "Wearing ... gives the driver a good appearance.",
+    "options": [
+      "Tea",
+      "Watch",
+      "Clean and tidy clothes",
+      "Earphones"
+    ],
+    "answer": 2,
+    "explanation": "Clean and tidy clothes signifie des vêtements propres et soignés.",
+    "source": "capture-text",
+    "image": "images/q015.webp",
+    "sourceNumber": 15,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Clean and tidy clothes give a neat professional appearance."
+  },
+  {
+    "id": "S016",
+    "question": "It is important to ... carefully to the passenger's question.",
+    "options": [
+      "Question",
+      "Teach",
+      "Listen",
+      "Talk"
+    ],
+    "answer": 2,
+    "explanation": "Listen carefully signifie écouter attentivement.",
+    "source": "capture-text",
+    "image": "images/q016.webp",
+    "sourceNumber": 16,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Listen carefully means paying close attention to what someone says."
+  },
+  {
+    "id": "S017",
+    "question": "At the old souq, drivers should park in the ... .",
+    "options": [
+      "Drop off area",
+      "Side of the road",
+      "Beach",
+      "Car Park"
+    ],
+    "answer": 3,
+    "explanation": "Car park signifie parking ; c’est la réponse adaptée au verbe park.",
+    "source": "capture-text",
+    "image": "images/q017.webp",
+    "sourceNumber": 17,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A car park is a designated parking area, matching the verb park."
+  },
+  {
+    "id": "S018",
+    "question": "When the driver tells the customer, 'I can't allow you to drive my car,' what does he mean?",
+    "options": [
+      "Drive my car",
+      "I cannot let you drive my car",
+      "Keep the change",
+      "Give me money"
+    ],
+    "answer": 1,
+    "explanation": "Can't allow et cannot let expriment la même interdiction.",
+    "source": "capture-text",
+    "image": "images/q018.webp",
+    "sourceNumber": 18,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-18",
+    "explanation_en": "Cannot allow and cannot let express the same refusal of permission."
+  },
+  {
+    "id": "S019",
+    "question": "Cleaning your ... prevents you from sweating and smelling.",
+    "options": [
+      "Sand",
+      "Table",
+      "Body",
+      "Office"
+    ],
+    "answer": 2,
+    "explanation": "Réponse attendue : body (corps). Se laver réduit les odeurs, mais n’empêche pas la transpiration normale.",
+    "source": "capture-text",
+    "image": "images/q019.webp",
+    "sourceNumber": 19,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Body is the expected word. Washing reduces body odour, but it does not stop normal sweating."
+  },
+  {
+    "id": "S020",
+    "question": "Drivers should do some pre-drive checks for their car and make the ... is clean.",
+    "options": [
+      "Air",
+      "Door",
+      "Interior",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "Interior désigne l’habitacle. La phrase de la capture omet « sure » après « make ».",
+    "source": "capture-text",
+    "image": "images/q020.webp",
+    "sourceNumber": 20,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Interior means the inside of the vehicle. The original sentence is missing sure after make."
+  },
+  {
+    "id": "S021",
+    "question": "The tourist wants to visit a place with animals. Where does the tourist want to visit?",
+    "options": [
+      "Shopping centre",
+      "Museum",
+      "Zoo",
+      "Hotel"
+    ],
+    "answer": 2,
+    "explanation": "Un zoo accueille des animaux.",
+    "source": "capture-text",
+    "image": "images/q021.webp",
+    "sourceNumber": 21,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A zoo is a place where visitors can see animals."
+  },
+  {
+    "id": "S022",
+    "question": "Tollway would cost an ... charge.",
+    "options": [
+      "No",
+      "Free",
+      "Extra",
+      "Discount"
+    ],
+    "answer": 2,
+    "explanation": "Extra charge signifie frais supplémentaires.",
+    "source": "capture-text",
+    "image": "images/q022.webp",
+    "sourceNumber": 22,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-3",
+    "explanation_en": "An extra charge is an additional fee."
+  },
+  {
+    "id": "S023",
+    "question": "The passenger wanted to go to the grocery shop. Where would you take him?",
+    "options": [
+      "A shop selling mobile phones",
+      "A shop selling foods and drinks",
+      "A shop selling cars",
+      "A shop selling houses"
+    ],
+    "answer": 1,
+    "explanation": "Grocery shop signifie épicerie ou magasin d’alimentation.",
+    "source": "capture-text",
+    "image": "images/q023.webp",
+    "sourceNumber": 23,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A grocery shop sells food and drinks."
+  },
+  {
+    "id": "S024",
+    "question": "The ... in the car makes the passenger very comfortable during the summer.",
+    "options": [
+      "Wheels",
+      "Seats",
+      "Music",
+      "Air conditioning"
+    ],
+    "answer": 3,
+    "explanation": "La climatisation rafraîchit l’habitacle en été.",
+    "source": "capture-text",
+    "image": "images/q024.webp",
+    "sourceNumber": 24,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-6",
+    "explanation_en": "Air conditioning makes the cabin cooler during summer."
+  },
+  {
+    "id": "S025",
+    "question": "When stopping, taxi drivers should always try to get out of the ... .",
+    "options": [
+      "Traffic",
+      "Speed",
+      "Way",
+      "None of the above"
+    ],
+    "answer": 0,
+    "explanation": "Dans le contexte routier, se ranger hors du flux de circulation est le sens attendu.",
+    "source": "capture-text",
+    "image": "images/q025.webp",
+    "sourceNumber": 25,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "In this driving context, get out of the traffic means pulling clear of the traffic flow to stop safely."
+  },
+  {
+    "id": "S026",
+    "question": "Cutting down on fats and ... are important.",
+    "options": [
+      "Fruits",
+      "Sugars",
+      "Vegetables",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Cutting down on signifie réduire ; l’association attendue est fats and sugars.",
+    "source": "capture-text",
+    "image": "images/q026.webp",
+    "sourceNumber": 26,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Cutting down on means reducing. Fats and sugars is the intended combination."
+  },
+  {
+    "id": "S027",
+    "question": "The taxi driver should always say to the customer once he drops him/her at the airport, 'Have a ... trip.'",
+    "options": [
+      "Dangerous",
+      "Bad",
+      "Sad",
+      "Safe"
+    ],
+    "answer": 3,
+    "explanation": "Have a safe trip signifie bon voyage, en souhaitant un trajet en sécurité.",
+    "source": "capture-text",
+    "image": "images/q027.webp",
+    "sourceNumber": 27,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Have a safe trip is a polite wish for a safe journey."
+  },
+  {
+    "id": "S028",
+    "question": "People go to the old souk to ...?",
+    "options": [
+      "Take photos",
+      "Buy clothes",
+      "Enjoy time",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "Les trois activités proposées peuvent se faire au souk.",
+    "source": "capture-text",
+    "image": "images/q028.webp",
+    "sourceNumber": 28,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "All three activities listed can take place at an old souk."
+  },
+  {
+    "id": "S029",
+    "question": "Spraying ... prevents the driver from smelling bad.",
+    "options": [
+      "Perfume",
+      "Soap",
+      "Jewelry",
+      "Clothes"
+    ],
+    "answer": 0,
+    "explanation": "Perfume signifie parfum. Réponse de vocabulaire attendue ; le parfum ne remplace pas l’hygiène.",
+    "source": "capture-text",
+    "image": "images/q029.webp",
+    "sourceNumber": 29,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Perfume is the intended vocabulary answer. It does not replace personal hygiene."
+  },
+  {
+    "id": "S030",
+    "question": "A passenger asked you to direct them to the nearest Etisalat. Where are you directing the passenger to?",
+    "options": [
+      "Bakery shop",
+      "Etisalat store",
+      "Starbucks",
+      "Hotel"
+    ],
+    "answer": 1,
+    "explanation": "La destination demandée est une boutique de l’opérateur Etisalat.",
+    "source": "capture-text",
+    "image": "images/q030.webp",
+    "sourceNumber": 30,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The requested destination is an Etisalat store."
+  },
+  {
+    "id": "S031",
+    "question": "Taxi drivers should comply with ... .",
+    "options": [
+      "Exercise",
+      "Diet",
+      "Very strict behavior and morals",
+      "Walking"
+    ],
+    "answer": 2,
+    "explanation": "Comply with signifie se conformer à ; la troisième option est la réponse cohérente parmi celles proposées.",
+    "source": "capture-text",
+    "image": "images/q031.webp",
+    "sourceNumber": 31,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Comply with means follow or conform to. The third option is the intended choice among those given."
+  },
+  {
+    "id": "S032",
+    "question": "Taxi drivers should check their ... .",
+    "options": [
+      "Brake oil",
+      "Food",
+      "Mobile",
+      "Sky"
+    ],
+    "answer": 0,
+    "explanation": "La capture emploie brake oil ; le terme technique usuel est brake fluid (liquide de frein).",
+    "source": "capture-text",
+    "image": "images/q032.webp",
+    "sourceNumber": 32,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The screenshot says brake oil; the usual technical term is brake fluid."
+  },
+  {
+    "id": "S033",
+    "question": "Taxi drivers should always keep a safe distance ... .",
+    "options": [
+      "From the sky",
+      "From the police",
+      "From the vehicle in front of them",
+      "Army"
+    ],
+    "answer": 2,
+    "explanation": "Maintenir une distance de sécurité avec le véhicule qui précède.",
+    "source": "capture-text",
+    "image": "images/q033.webp",
+    "sourceNumber": 33,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The intended answer is to keep a safe following distance from the vehicle ahead."
+  },
+  {
+    "id": "S034",
+    "question": "It is difficult to work without air conditioning when it's ... .",
+    "options": [
+      "Traffic",
+      "Humid",
+      "Rain",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Humid signifie humide ; c’est le seul adjectif météorologique adapté ici.",
+    "source": "capture-text",
+    "image": "images/q034.webp",
+    "sourceNumber": 34,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Humid describes air containing a lot of moisture and is the suitable weather adjective here."
+  },
+  {
+    "id": "S035",
+    "question": "What type of services does the customer give a tip for?",
+    "options": [
+      "Bad services",
+      "Good services",
+      "No services",
+      "Unhappy services"
+    ],
+    "answer": 1,
+    "explanation": "Un tip est un pourboire donné en appréciation d’un bon service.",
+    "source": "capture-text",
+    "image": "images/q035.webp",
+    "sourceNumber": 35,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A tip is extra money a customer may give in appreciation of good service."
+  },
+  {
+    "id": "S036",
+    "question": "Avoiding ... is good for your health.",
+    "options": [
+      "Driving",
+      "Working",
+      "Eating",
+      "Alcohol"
+    ],
+    "answer": 3,
+    "explanation": "La réponse de vocabulaire attendue est alcohol.",
+    "source": "capture-text",
+    "image": "images/q036.webp",
+    "sourceNumber": 36,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Alcohol is the intended vocabulary answer among the choices."
+  },
+  {
+    "id": "S037",
+    "question": "It is good to ... your passenger a nice day.",
+    "options": [
+      "Pay",
+      "Charge",
+      "Wish",
+      "Money"
+    ],
+    "answer": 2,
+    "explanation": "Wish someone a nice day signifie souhaiter une bonne journée.",
+    "source": "capture-text",
+    "image": "images/q037.webp",
+    "sourceNumber": 37,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Wish someone a nice day is the correct expression."
+  },
+  {
+    "id": "S038",
+    "question": "Taxi drivers should take the initiative to help passengers with their ... .",
+    "options": [
+      "Food",
+      "Phone",
+      "Luggage",
+      "All of the above"
+    ],
+    "answer": 2,
+    "explanation": "Luggage signifie bagages, l’aide habituelle attendue ici.",
+    "source": "capture-text",
+    "image": "images/q038.webp",
+    "sourceNumber": 38,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Luggage means passengers' bags and suitcases, which drivers commonly help with."
+  },
+  {
+    "id": "S039",
+    "question": "Abaya is worn with a ... .",
+    "options": [
+      "Shoe",
+      "Headscarf",
+      "Shirt",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Headscarf signifie foulard couvrant la tête ; c’est l’association vestimentaire attendue dans cet exercice.",
+    "source": "capture-text",
+    "image": "images/q039.webp",
+    "sourceNumber": 39,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Headscarf is the clothing item intended in this cultural vocabulary exercise."
+  },
+  {
+    "id": "S040",
+    "question": "How do you greet a passenger in the evening?",
+    "options": [
+      "Good morning",
+      "Good evening",
+      "Hello",
+      "Hi"
+    ],
+    "answer": 1,
+    "explanation": "Good evening est la salutation spécifique au soir ; hello et hi sont des salutations générales.",
+    "source": "capture-text",
+    "image": "images/q040.webp",
+    "sourceNumber": 40,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Good evening is the greeting specifically associated with the evening. Hello and hi are general greetings."
+  },
+  {
+    "id": "S041",
+    "question": "The passenger was not sure about her/his ... .",
+    "options": [
+      "Aim",
+      "Head",
+      "Destination",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "Destination est le lieu où le passager veut se rendre.",
+    "source": "capture-text",
+    "image": "images/q041.webp",
+    "sourceNumber": 41,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Destination is the place a passenger wants to reach."
+  },
+  {
+    "id": "S042",
+    "question": "I hope she arrives safe and sound. What do you understand by safe and sound?",
+    "options": [
+      "She must not arrive",
+      "Stop the car",
+      "Drive dangerously",
+      "She arrives at her destination safely"
+    ],
+    "answer": 3,
+    "explanation": "Safe and sound signifie sain et sauf.",
+    "source": "capture-text",
+    "image": "images/q042.webp",
+    "sourceNumber": 42,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Safe and sound means arriving safely and without harm."
+  },
+  {
+    "id": "S043",
+    "question": "The taxi company also provides ... services to customers shopping at Dubai Mall.",
+    "options": [
+      "Flight",
+      "Delivery",
+      "Party",
+      "Sleep"
+    ],
+    "answer": 1,
+    "explanation": "Delivery signifie livraison ; c’est la réponse attendue parmi les choix de cet exercice. La phrase ne garantit pas la disponibilité actuelle d’un service précis.",
+    "source": "capture-text",
+    "image": "images/q043.webp",
+    "sourceNumber": 43,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Delivery is the intended word among the choices. The sentence does not establish that a particular service is currently available."
+  },
+  {
+    "id": "S044",
+    "question": "The company is supposed to provide drivers with maintenance books, copies of car ownership and ... .",
+    "options": [
+      "Receipts",
+      "Passports",
+      "Insurance policies",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Insurance policies signifie polices d’assurance ; c’est le document lié au véhicule attendu ici.",
+    "source": "capture-text",
+    "image": "images/q044.webp",
+    "sourceNumber": 44,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Insurance policies are vehicle-related documents, unlike the other choices here."
+  },
+  {
+    "id": "S045",
+    "question": "The old souk is a ... .",
+    "options": [
+      "Hotel",
+      "Market",
+      "Beach",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Souk signifie marché.",
+    "source": "capture-text",
+    "image": "images/q045.webp",
+    "sourceNumber": 45,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Souk means market."
+  },
+  {
+    "id": "S046",
+    "question": "It should be a daily procedure for taxi drivers to ... .",
+    "options": [
+      "Take selfie",
+      "Do pre-drive checks",
+      "Drink",
+      "Laugh"
+    ],
+    "answer": 1,
+    "explanation": "Pre-drive checks signifie contrôles avant de prendre la route.",
+    "source": "capture-text",
+    "image": "images/q046.webp",
+    "sourceNumber": 46,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Pre-drive checks are checks carried out before starting a journey."
+  },
+  {
+    "id": "S047",
+    "question": "Kandora and abaya are ... .",
+    "options": [
+      "Heavy",
+      "Expensive",
+      "Traditional clothes",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "Il s’agit de vêtements traditionnels.",
+    "source": "capture-text",
+    "image": "images/q047.webp",
+    "sourceNumber": 47,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-47",
+    "explanation_en": "Kandora and abaya are traditional garments."
+  },
+  {
+    "id": "S048",
+    "question": "In Dubai, it mostly rains in the ... .",
+    "options": [
+      "Never rains",
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "answer": 3,
+    "explanation": "Winter signifie hiver, la saison attendue dans cet exercice sur le climat de Dubaï.",
+    "source": "capture-text",
+    "image": "images/q048.webp",
+    "sourceNumber": 48,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Winter is the expected season in this question about Dubai's rainfall."
+  },
+  {
+    "id": "S049",
+    "question": "There are large departure screens at the airport. What is a departure screen?",
+    "options": [
+      "A big screen showing a football game",
+      "A big screen showing the menu of a restaurant",
+      "A big screen showing the flight details along with the time of flights landing and departing",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "La troisième proposition désigne un écran d’informations de vol. Un écran de départs affiche plus précisément les vols au départ.",
+    "source": "capture-text",
+    "image": "images/q049.webp",
+    "sourceNumber": 49,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The third option describes a flight information screen. A departures screen specifically lists departing flights."
+  },
+  {
+    "id": "S050",
+    "question": "The passenger wants to take Emirates ... to travel to fly back to his home country.",
+    "options": [
+      "Green lines",
+      "No lines",
+      "Road",
+      "Airlines"
+    ],
+    "answer": 3,
+    "explanation": "Emirates est une compagnie aérienne ; airlines signifie compagnies aériennes.",
+    "source": "capture-text",
+    "image": "images/q050.webp",
+    "sourceNumber": 50,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Emirates is an airline; airlines are companies providing air transport."
+  },
+  {
+    "id": "S051",
+    "question": "The driver has to use the fire ... properly directing it to the place of ... .",
+    "options": [
+      "Wrong, up",
+      "Down, side",
+      "Extinguisher, fire",
+      "Office, fire"
+    ],
+    "answer": 2,
+    "explanation": "Fire extinguisher signifie extincteur. Il s’agit d’un exercice de vocabulaire, pas d’une procédure d’intervention.",
+    "source": "capture-text",
+    "image": "images/q051.webp",
+    "sourceNumber": 51,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Fire extinguisher is the intended phrase. This is a vocabulary exercise, not an emergency response procedure."
+  },
+  {
+    "id": "S052",
+    "question": "... can be avoided by taking the tollway.",
+    "options": [
+      "Traffic",
+      "Passenger",
+      "Stress",
+      "I don't know"
+    ],
+    "answer": 0,
+    "explanation": "Traffic signifie circulation ou embouteillages ; c’est la réponse attendue. Une route à péage ne garantit pas l’absence d’embouteillages.",
+    "source": "capture-text",
+    "image": "images/q052.webp",
+    "sourceNumber": 52,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Traffic is the intended word. A tollway does not guarantee a journey without congestion."
+  },
+  {
+    "id": "S053",
+    "question": "The taxi company offers ... services.",
+    "options": [
+      "Ambulance",
+      "Transportation",
+      "Cleaning",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Transportation services signifie services de transport.",
+    "source": "capture-text",
+    "image": "images/q053.webp",
+    "sourceNumber": 53,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Transportation services means services that move people or goods between places."
+  },
+  {
+    "id": "S054",
+    "question": "The passenger had no plans to visit old places. Does the passenger want to visit the old places?",
+    "options": [
+      "Yes",
+      "No",
+      "May be",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Had no plans exprime l’absence d’intention de visiter ces lieux.",
+    "source": "capture-text",
+    "image": "images/q054.webp",
+    "sourceNumber": 54,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Had no plans means the passenger did not intend to visit those places."
+  },
+  {
+    "id": "S055",
+    "question": "Taxi drivers should ... passengers.",
+    "options": [
+      "Eat",
+      "Drink",
+      "Charge",
+      "Greet"
+    ],
+    "answer": 3,
+    "explanation": "Réponse attendue dans le contexte de l’accueil : greet (saluer). Charge peut aussi être grammatical dans un contexte de facturation, mais ce n’est pas le sens pédagogique retenu ici.",
+    "source": "capture-text",
+    "image": "images/q055.webp",
+    "sourceNumber": 55,
+    "transcriptionType": "written",
+    "answerStatus": "ambiguous",
+    "examEligible": false,
+    "explanation_en": "Greet is the expected answer in a customer welcome context. Charge is also grammatical in a payment context, so this ambiguous question is not scored."
+  },
+  {
+    "id": "S056",
+    "question": "For taxi drivers to stay healthy, they should pay attention to their ... .",
+    "options": [
+      "Driving",
+      "Health",
+      "Sports",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Stay healthy et pay attention to their health renvoient à la santé.",
+    "source": "capture-text",
+    "image": "images/q056.webp",
+    "sourceNumber": 56,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Stay healthy and pay attention to their health refer to the same topic."
+  },
+  {
+    "id": "S057",
+    "question": "If you are a taxi driver, don't allow other people to ... .",
+    "options": [
+      "Talk to you",
+      "Pay you the fairs",
+      "Sleep in the car",
+      "Drive your car"
+    ],
+    "answer": 3,
+    "explanation": "La réponse attendue est de ne pas laisser d’autres personnes conduire le véhicule. La capture écrit fairs au lieu de fares.",
+    "source": "capture-text",
+    "image": "images/q057.webp",
+    "sourceNumber": 57,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-18",
+    "explanation_en": "The intended answer is not to let other people drive the vehicle. The screenshot misspells fares as fairs."
+  },
+  {
+    "id": "S058",
+    "question": "All taxi drivers have to wear a ... whilst driving the car.",
+    "options": [
+      "Uniform",
+      "Clock",
+      "Watch",
+      "Ring"
+    ],
+    "answer": 0,
+    "explanation": "Uniform signifie uniforme ; c’est la tenue professionnelle attendue dans cet exercice.",
+    "source": "capture-text",
+    "image": "images/q058.webp",
+    "sourceNumber": 58,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Uniform is the professional clothing intended by this question."
+  },
+  {
+    "id": "S059",
+    "question": "The passenger asked the driver about the services of his ... offers.",
+    "options": [
+      "Delivery",
+      "Company",
+      "Food",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Company signifie entreprise. La phrase d’origine est maladroite : on dirait « the services his company offers ».",
+    "source": "capture-text",
+    "image": "images/q059.webp",
+    "sourceNumber": 59,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Company is the intended word. A natural sentence would be: the services his company offers."
+  },
+  {
+    "id": "S060",
+    "question": "The driver can speak many ... .",
+    "options": [
+      "Little",
+      "Nonsense",
+      "Too much",
+      "Languages"
+    ],
+    "answer": 3,
+    "explanation": "Many languages signifie plusieurs langues.",
+    "source": "capture-text",
+    "image": "images/q060.webp",
+    "sourceNumber": 60,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Many languages means several languages."
+  },
+  {
+    "id": "S061",
+    "question": "... is good for your health.",
+    "options": [
+      "Eating more",
+      "Junk food",
+      "Reducing your weight",
+      "Chocolates"
+    ],
+    "answer": 2,
+    "explanation": "Réponse attendue : reducing your weight. Cette affirmation ne s’applique pas à tout le monde ; perdre du poids n’est pas un objectif universel de santé.",
+    "source": "capture-text",
+    "image": "images/q061.webp",
+    "sourceNumber": 61,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Reducing your weight is the expected option, but weight loss is not a universal health goal and is not appropriate for everyone."
+  },
+  {
+    "id": "S062",
+    "question": "The roads were slippery ... .",
+    "options": [
+      "Because the sun was shining",
+      "Because it was hot",
+      "Because of the rain",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "Slippery signifie glissant ; la pluie peut rendre les routes glissantes.",
+    "source": "capture-text",
+    "image": "images/q062.webp",
+    "sourceNumber": 62,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-62",
+    "explanation_en": "Slippery means difficult to grip. Rain can make road surfaces slippery."
+  },
+  {
+    "id": "S063",
+    "question": "The passenger does not have any ... to pay.",
+    "options": [
+      "Cash",
+      "Fruits",
+      "Flowers",
+      "Time"
+    ],
+    "answer": 0,
+    "explanation": "Cash signifie argent liquide.",
+    "source": "capture-text",
+    "image": "images/q063.webp",
+    "sourceNumber": 63,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Cash means physical money such as notes and coins."
+  },
+  {
+    "id": "S064",
+    "question": "The passenger said they were hungry. Where would you direct the passenger to go?",
+    "options": [
+      "Grand mosque",
+      "Desert safari",
+      "Restaurant",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "Hungry signifie avoir faim ; on dirige le client vers un restaurant.",
+    "source": "capture-text",
+    "image": "images/q064.webp",
+    "sourceNumber": 64,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Hungry means wanting food, so a restaurant is the suitable destination."
+  },
+  {
+    "id": "S065",
+    "question": "What are the traditional clothes in Dubai?",
+    "options": [
+      "Shorts",
+      "T-shirt",
+      "Kandora and Abaya",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "Kandora et abaya sont les vêtements traditionnels visés par la question.",
+    "source": "capture-text",
+    "image": "images/q065.webp",
+    "sourceNumber": 65,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-47",
+    "explanation_en": "Kandora and abaya are the traditional clothes intended in this question."
+  },
+  {
+    "id": "S066",
+    "question": "Tourists can stay in a hotel or a ... .",
+    "options": [
+      "Cinema hall",
+      "Park",
+      "Resort",
+      "Shop"
+    ],
+    "answer": 2,
+    "explanation": "Resort signifie complexe hôtelier ou lieu de villégiature.",
+    "source": "capture-text",
+    "image": "images/q066.webp",
+    "sourceNumber": 66,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "A resort is a holiday accommodation complex."
+  },
+  {
+    "id": "S067",
+    "question": "Men avoid shaking hands with ... .",
+    "options": [
+      "Everybody",
+      "Other men",
+      "Woman",
+      "Children"
+    ],
+    "answer": 2,
+    "explanation": "Réponse attendue dans le contexte culturel émirati de cet exercice : woman. Ce n’est pas une règle universelle ; respecter les préférences de chacun et attendre qu’une personne tende la main.",
+    "source": "capture-text",
+    "image": "images/q067.webp",
+    "sourceNumber": 67,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Woman is the intended option in this Emirati cultural exercise. This is not a universal rule: respect individual preferences and wait for the other person to offer a handshake."
+  },
+  {
+    "id": "S068",
+    "question": "The passenger wanted to go to the mosque and then the Chamber of Commerce. What was the passenger's second destination?",
+    "options": [
+      "Chamber of commerce",
+      "Last",
+      "Third",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "And then indique la destination suivante : la Chambre de commerce.",
+    "source": "capture-text",
+    "image": "images/q068.webp",
+    "sourceNumber": 68,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "And then introduces the next destination: the Chamber of Commerce."
+  },
+  {
+    "id": "S069",
+    "question": "The summer weather is ... and ... .",
+    "options": [
+      "Dry, cold",
+      "Cool, warm",
+      "Hot, humid",
+      "Cool, rainy"
+    ],
+    "answer": 2,
+    "explanation": "Hot and humid signifie chaud et humide dans le contexte de Dubaï.",
+    "source": "capture-text",
+    "image": "images/q069.webp",
+    "sourceNumber": 69,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Hot and humid describes the intended summer conditions in Dubai."
+  },
+  {
+    "id": "S070",
+    "question": "If passengers want to keep ..., taxi drivers should not disturb them.",
+    "options": [
+      "Sleep",
+      "Talk",
+      "Walk",
+      "Quiet"
+    ],
+    "answer": 3,
+    "explanation": "Keep quiet signifie rester silencieux ; respecter le calme souhaité.",
+    "source": "capture-text",
+    "image": "images/q070.webp",
+    "sourceNumber": 70,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Keep quiet means remain silent; respect a passenger's preference for a quiet journey."
+  },
+  {
+    "id": "S071",
+    "question": "The passenger asked the driver if he was free, and the driver replied ...",
+    "options": [
+      "Yes, please get in",
+      "Leave me alone",
+      "Don't touch my car",
+      "Go away"
+    ],
+    "answer": 0,
+    "explanation": "Free signifie ici disponible ; please get in invite poliment à monter.",
+    "source": "capture-text",
+    "image": "images/q071.webp",
+    "sourceNumber": 71,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Free means available here. Please get in politely invites the passenger to enter."
+  },
+  {
+    "id": "S072",
+    "question": "Sore or tired eyes are signs of ... .",
+    "options": [
+      "Tan",
+      "Due",
+      "Sad",
+      "A fatigue symptom"
+    ],
+    "answer": 3,
+    "explanation": "Fatigue signifie fatigue. Réponse de vocabulaire attendue, sans diagnostic médical.",
+    "source": "capture-text",
+    "image": "images/q072.webp",
+    "sourceNumber": 72,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Fatigue means tiredness. This is a vocabulary answer, not a medical diagnosis."
+  },
+  {
+    "id": "S073",
+    "question": "A taxi driver should know everything about ... .",
+    "options": [
+      "Diet and exercise",
+      "His friends",
+      "Color",
+      "None of them"
+    ],
+    "answer": 0,
+    "explanation": "La réponse attendue parmi les choix est diet and exercise (alimentation et exercice), dans le thème de l’hygiène de vie.",
+    "source": "capture-text",
+    "image": "images/q073.webp",
+    "sourceNumber": 73,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Diet and exercise is the intended choice in this healthy lifestyle exercise."
+  },
+  {
+    "id": "S074",
+    "question": "In Ramadan, sunset timing is called ... .",
+    "options": [
+      "Iftar",
+      "Moonlight",
+      "Movie time",
+      "The maghreb"
+    ],
+    "answer": 3,
+    "explanation": "Maghrib désigne le coucher du soleil et la prière correspondante ; iftar désigne la rupture du jeûne à ce moment-là. La formulation peut aussi viser iftar : faute de corrigé d’origine, cette question est signalée ambiguë et exclue de l’examen.",
+    "source": "capture-text",
+    "image": "images/q074.webp",
+    "sourceNumber": 74,
+    "transcriptionType": "written",
+    "answerStatus": "ambiguous",
+    "examEligible": false,
+    "explanation_en": "Maghrib refers to sunset and the associated prayer; iftar is the breaking of the fast at that time. The wording could intend either, so this question is not scored."
+  },
+  {
+    "id": "S075",
+    "question": "You shouldn't attempt to ... your car by yourself.",
+    "options": [
+      "Sleep",
+      "Repair",
+      "Clean",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Repair signifie réparer ; c’est le verbe attendu dans cet exercice.",
+    "source": "capture-text",
+    "image": "images/q075.webp",
+    "sourceNumber": 75,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Repair means fix a fault and is the intended verb in this exercise."
+  },
+  {
+    "id": "S076",
+    "question": "This ... will take you to your destination (Old Mosque).",
+    "options": [
+      "Lane",
+      "Headphone",
+      "Watch",
+      "I don't know"
+    ],
+    "answer": 0,
+    "explanation": "Lane signifie voie. C’est la seule proposition de déplacement cohérente, même si road serait plus naturel.",
+    "source": "capture-text",
+    "image": "images/q076.webp",
+    "sourceNumber": 76,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Lane is the only travel-related option that fits, although road would be more natural."
+  },
+  {
+    "id": "S077",
+    "question": "Passengers prefer to travel in ... .",
+    "options": [
+      "Fast",
+      "Slow",
+      "I don't know",
+      "Safe, clean and comfortable cars"
+    ],
+    "answer": 3,
+    "explanation": "Les passagers préfèrent des voitures sûres, propres et confortables.",
+    "source": "capture-text",
+    "image": "images/q077.webp",
+    "sourceNumber": 78,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Safe, clean and comfortable cars describes the preferred travel conditions."
+  },
+  {
+    "id": "S078",
+    "question": "I have to take a break ... .",
+    "options": [
+      "Weekend",
+      "Whenever I feel tired",
+      "Forever",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "Whenever I feel tired signifie chaque fois que je me sens fatigué.",
+    "source": "capture-text",
+    "image": "images/q078.webp",
+    "sourceNumber": 79,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Whenever I feel tired means each time I feel tired."
+  },
+  {
+    "id": "S079",
+    "question": "The whole trip cost the passenger 80 ... in UAE.",
+    "options": [
+      "Dirhams",
+      "Riyals",
+      "Rupees",
+      "Dollars"
+    ],
+    "answer": 0,
+    "explanation": "La monnaie des Émirats arabes unis est le dirham.",
+    "source": "capture-text",
+    "image": "images/q079.webp",
+    "sourceNumber": 80,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The currency of the United Arab Emirates is the dirham."
+  },
+  {
+    "id": "S080",
+    "question": "The passenger should ... .",
+    "options": [
+      "Eat all the time",
+      "Reach his destination safely",
+      "Tip the driver",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Reach his destination safely signifie arriver à destination en sécurité.",
+    "source": "capture-text",
+    "image": "images/q080.webp",
+    "sourceNumber": 81,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Reach his destination safely means arrive without harm."
+  },
+  {
+    "id": "S081",
+    "question": "As a taxi driver you should avoid ... .",
+    "options": [
+      "Tips",
+      "Taking longer routes",
+      "Talking to customers",
+      "Being polite"
+    ],
+    "answer": 1,
+    "explanation": "La réponse vise les détours inutilement longs, pas un itinéraire alternatif justifié.",
+    "source": "capture-text",
+    "image": "images/q081.webp",
+    "sourceNumber": 82,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "The answer refers to unnecessarily long routes, not a justified alternative route."
+  },
+  {
+    "id": "S082",
+    "question": "A taxi driver should have good ... .",
+    "options": [
+      "Fun",
+      "Teeth",
+      "Smell",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "Réponse attendue dans le thème de l’hygiène : smell (odeur agréable). La formulation est maladroite ; « smell pleasant » serait plus naturel.",
+    "source": "capture-text",
+    "image": "images/q082.webp",
+    "sourceNumber": 83,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Smell is the intended answer in the personal hygiene context. Smell pleasant would be a more natural expression."
+  },
+  {
+    "id": "S083",
+    "question": "The taxi driver should ... to the traffic on the road.",
+    "options": [
+      "Pass",
+      "Leave",
+      "Pay full attention",
+      "Do nothing"
+    ],
+    "answer": 2,
+    "explanation": "Pay full attention signifie prêter toute son attention.",
+    "source": "capture-text",
+    "image": "images/q083.webp",
+    "sourceNumber": 84,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Pay full attention means concentrate carefully."
+  },
+  {
+    "id": "S084",
+    "question": "In case of an accident, the taxi driver ... .",
+    "options": [
+      "Should call the police",
+      "Should call a friend",
+      "Should not contact anyone",
+      "Do nothing"
+    ],
+    "answer": 0,
+    "explanation": "Réponse attendue : prévenir la police. La déclaration réelle dépend du type d’accident et des procédures locales.",
+    "source": "capture-text",
+    "image": "images/q084.webp",
+    "sourceNumber": 85,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-84",
+    "explanation_en": "Informing the police is the intended answer. Actual reporting procedures depend on the type of accident and local requirements."
+  },
+  {
+    "id": "S085",
+    "question": "In case of an accident, the taxi driver must call the ... and inform his ... .",
+    "options": [
+      "Hospital, friend",
+      "Friend, family",
+      "Neighbour, friend",
+      "Police, company"
+    ],
+    "answer": 3,
+    "explanation": "Les deux mots attendus sont police et company (entreprise).",
+    "source": "capture-text",
+    "image": "images/q085.webp",
+    "sourceNumber": 86,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "repetitionGroup": "capture-84",
+    "explanation_en": "Police and company are the two intended words: report the accident and notify the employer."
+  },
+  {
+    "id": "S086",
+    "question": "The driver was shocked to see a car coming in the ... direction.",
+    "options": [
+      "Opposite",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": 0,
+    "explanation": "Opposite direction signifie sens opposé.",
+    "source": "capture-text",
+    "image": "images/q086.webp",
+    "sourceNumber": 87,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Opposite direction means the direction facing or going the other way."
+  },
+  {
+    "id": "S087",
+    "question": "The roads were ... because of the heavy rain.",
+    "options": [
+      "Slippery",
+      "Wet",
+      "Cold",
+      "Dry"
+    ],
+    "answer": 0,
+    "explanation": "Slippery (glissantes) est la réponse pédagogique probable, mais wet (mouillées) convient aussi. Cette question ambiguë reste hors de l’examen noté.",
+    "source": "capture-text",
+    "image": "images/q087.webp",
+    "sourceNumber": 88,
+    "transcriptionType": "written",
+    "answerStatus": "ambiguous",
+    "examEligible": false,
+    "repetitionGroup": "capture-62",
+    "explanation_en": "Slippery is probably the intended answer, but wet also fits. This ambiguous question is not scored."
+  },
+  {
+    "id": "S088",
+    "question": "The driver inform his company that their car is not ... .",
+    "options": [
+      "Leading",
+      "Working",
+      "Moving",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "Not working signifie en panne. La phrase source devrait employer « informs » ; « not moving » reste grammatical dans un autre contexte.",
+    "source": "capture-text",
+    "image": "images/q088.webp",
+    "sourceNumber": 89,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Not working means out of order. The original sentence should use informs; not moving could also fit a different context."
+  },
+  {
+    "id": "S089",
+    "question": "The driver job is to drive ... .",
+    "options": [
+      "Fast",
+      "Safely",
+      "Unemployment",
+      "Dlow"
+    ],
+    "answer": 1,
+    "explanation": "Safely signifie en sécurité. La capture contient « Dlow », conservé comme dans l’image.",
+    "source": "capture-text",
+    "image": "images/q089.webp",
+    "sourceNumber": 90,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Safely means in a safe way. The screenshot's spelling Dlow is preserved as an option."
+  },
+  {
+    "id": "S090",
+    "question": "Where should a passenger's luggage be placed?",
+    "options": [
+      "In the trunk",
+      "On the floor",
+      "In the front seat",
+      "At home"
+    ],
+    "answer": 0,
+    "explanation": "Question de remplacement : la capture ne contient que l’icône audio et les choix. Trunk signifie coffre. La coche visible montre une sélection ; elle n’est pas considérée comme une preuve de correction.",
+    "source": "capture-text",
+    "image": "images/q090.webp",
+    "sourceNumber": 91,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: only the audio icon and options appear in the screenshot. Trunk means the luggage compartment. A visible tick shows a selection, not proof that it was correct."
+  },
+  {
+    "id": "S091",
+    "question": "What is an airport drop-off area?",
+    "options": [
+      "It's the location where taxi drivers drop passengers off at the airport",
+      "Location of the terminal bus",
+      "I don't know",
+      "It's where passenger land"
+    ],
+    "answer": 0,
+    "explanation": "Question de remplacement rédigée à partir des choix : drop-off area désigne une zone de dépose.",
+    "source": "capture-text",
+    "image": "images/q091.webp",
+    "sourceNumber": 92,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: a drop-off area is where passengers are set down."
+  },
+  {
+    "id": "S092",
+    "question": "What is an airline?",
+    "options": [
+      "I don't know",
+      "Company that owns taxis",
+      "Company that owns planes",
+      "Company that owns buses"
+    ],
+    "answer": 2,
+    "explanation": "Question de remplacement : une airline est une compagnie de transport aérien.",
+    "source": "capture-text",
+    "image": "images/q092.webp",
+    "sourceNumber": 93,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: an airline is a company providing air transport."
+  },
+  {
+    "id": "S093",
+    "question": "A passenger compliments your service. What is a polite reply?",
+    "options": [
+      "I don't know English well",
+      "Thank you sir/madam",
+      "Don't respond and stay quite",
+      "Taxi drivers are not allowed to speak to customers"
+    ],
+    "answer": 1,
+    "explanation": "Question de remplacement : remercier est la réponse polie à un compliment. La capture écrit quite au lieu de quiet.",
+    "source": "capture-text",
+    "image": "images/q093.webp",
+    "sourceNumber": 94,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: thanking the passenger is a polite response to a compliment. The screenshot uses quite instead of quiet."
+  },
+  {
+    "id": "S094",
+    "question": "What does 'pick up the documents' mean?",
+    "options": [
+      "Throw documents",
+      "Complain documents",
+      "Paper",
+      "Collect documents"
+    ],
+    "answer": 3,
+    "explanation": "Question de remplacement : pick up signifie ici récupérer ou collecter les documents.",
+    "source": "capture-text",
+    "image": "images/q094.webp",
+    "sourceNumber": 95,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: pick up the documents means collect them."
+  },
+  {
+    "id": "S095",
+    "question": "A passenger says, 'Please meet me at Gate C.' Where should you meet the passenger?",
+    "options": [
+      "Gate B",
+      "Main gate",
+      "Gate C",
+      "All the above"
+    ],
+    "answer": 2,
+    "explanation": "Question de remplacement avec contexte ajouté : le passager indique explicitement Gate C. L’enregistrement d’origine n’est pas disponible dans la capture.",
+    "source": "capture-text",
+    "image": "images/q095.webp",
+    "sourceNumber": 96,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt with added context: the passenger explicitly names Gate C. The original audio is not available in the screenshot."
+  },
+  {
+    "id": "S096",
+    "question": "Where would you take a passenger who wants to watch a film?",
+    "options": [
+      "Cafe",
+      "Restaurant",
+      "Cinema",
+      "Resort"
+    ],
+    "answer": 2,
+    "explanation": "Question de remplacement : cinema signifie cinéma.",
+    "source": "capture-text",
+    "image": "images/q096.webp",
+    "sourceNumber": 97,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: a cinema is a place where people watch films."
+  },
+  {
+    "id": "S097",
+    "question": "A passenger says, 'I passed my driving test!' Which reply congratulates them?",
+    "options": [
+      "Good for you",
+      "Bad",
+      "Sad",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "Question de remplacement : good for you exprime ici une félicitation.",
+    "source": "capture-text",
+    "image": "images/q097.webp",
+    "sourceNumber": 98,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: good for you expresses congratulations in this context."
+  },
+  {
+    "id": "S098",
+    "question": "A passenger wants to be driven all day. This means the passenger is planning to keep the taxi driver with him for the ... day.",
+    "options": [
+      "Minute",
+      "Whole",
+      "Forever",
+      "I don't know"
+    ],
+    "answer": 1,
+    "explanation": "All day et the whole day signifient toute la journée.",
+    "source": "capture-text",
+    "image": "images/q098.webp",
+    "sourceNumber": 77,
+    "transcriptionType": "written",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "All day and the whole day both mean throughout the day."
+  },
+  {
+    "id": "S099",
+    "question": "How should a taxi's displayed information be kept so passengers can read it?",
+    "options": [
+      "Dirty",
+      "Broken",
+      "Not readable",
+      "Clean and easy to read"
+    ],
+    "answer": 3,
+    "explanation": "Question de remplacement : les informations affichées doivent être propres et lisibles. Les quatre choix ont été vérifiés sur la capture originale complète.",
+    "source": "capture-text",
+    "image": "images/q099.webp",
+    "sourceNumber": 99,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt: displayed information should be clean and legible. All four options were checked against the complete original screenshot."
+  },
+  {
+    "id": "S100",
+    "question": "A passenger says, 'Please collect me at four in the afternoon.' What time should you arrive?",
+    "options": [
+      "10 PM",
+      "3 PM",
+      "4 PM",
+      "I don't know"
+    ],
+    "answer": 2,
+    "explanation": "Question de remplacement avec horaire explicitement ajouté : four in the afternoon signifie 4 PM. L’audio d’origine est absent ; son horaire ne peut pas être déduit des choix seuls.",
+    "source": "capture-text",
+    "image": "images/q100.webp",
+    "sourceNumber": 100,
+    "transcriptionType": "reconstructed-audio",
+    "answerStatus": "reviewed",
+    "examEligible": true,
+    "explanation_en": "Replacement prompt with an explicitly added time: four in the afternoon means 4 PM. The original audio is absent, so its intended time cannot be inferred from the choices alone."
+  },
+  {
+    "id": "P001",
+    "question": "What should a taxi driver do before starting a journey?",
+    "options": [
+      "Ignore the mirrors",
+      "Check tyres, mirrors and seat belt",
+      "Use the phone",
+      "Turn off the meter"
+    ],
+    "answer": 1,
+    "explanation": "Le conducteur doit vérifier les équipements de sécurité.",
+    "source": "practice-v1",
+    "explanation_en": "Before setting off, check the vehicle's safety equipment, mirrors and seat belt."
+  },
+  {
+    "id": "P002",
+    "question": "What should you do at a red traffic light?",
+    "options": [
+      "Accelerate",
+      "Stop",
+      "Honk continuously",
+      "Turn without checking"
+    ],
+    "answer": 1,
+    "explanation": "Un feu rouge impose l’arrêt.",
+    "source": "practice-v1",
+    "explanation_en": "A red traffic light means stop."
+  },
+  {
+    "id": "P003",
+    "question": "What does “destination” mean?",
+    "options": [
+      "The starting point",
+      "The place a passenger wants to go",
+      "The fare amount",
+      "The car model"
+    ],
+    "answer": 1,
+    "explanation": "Destination signifie lieu d’arrivée.",
+    "source": "practice-v1",
+    "explanation_en": "Destination is the place a passenger wants to reach."
+  },
+  {
+    "id": "P004",
+    "question": "What is the safest way to drive in heavy rain?",
+    "options": [
+      "Speed up",
+      "Slow down and increase following distance",
+      "Brake sharply",
+      "Switch off lights"
+    ],
+    "answer": 1,
+    "explanation": "La pluie réduit l’adhérence et la visibilité.",
+    "source": "practice-v1",
+    "explanation_en": "In heavy rain, reduce speed and keep a safe following distance."
+  },
+  {
+    "id": "P005",
+    "question": "What should you do if a passenger leaves a phone in your taxi?",
+    "options": [
+      "Keep it",
+      "Throw it away",
+      "Report it through the company lost-property procedure",
+      "Sell it"
+    ],
+    "answer": 2,
+    "explanation": "Un objet trouvé doit être signalé selon la procédure.",
+    "source": "practice-v1",
+    "explanation_en": "Report the lost item and follow the company's lost property procedure."
+  },
+  {
+    "id": "P006",
+    "question": "What does “fare” mean in a taxi?",
+    "options": [
+      "The driver’s uniform",
+      "The price of the journey",
+      "The number of doors",
+      "The weather"
+    ],
+    "answer": 1,
+    "explanation": "Fare signifie prix de la course.",
+    "source": "practice-v1",
+    "explanation_en": "Fare is the amount charged for the journey."
+  },
+  {
+    "id": "P007",
+    "question": "Which document allows a person to drive legally?",
+    "options": [
+      "A shopping receipt",
+      "A valid driving licence",
+      "A hotel card",
+      "A bus ticket"
+    ],
+    "answer": 1,
+    "explanation": "Il faut un permis de conduire valide.",
+    "source": "practice-v1",
+    "explanation_en": "A driving licence authorises a person to drive the relevant vehicle category."
+  },
+  {
+    "id": "P008",
+    "question": "What should a driver do when an ambulance approaches with sirens?",
+    "options": [
+      "Race it",
+      "Give way safely",
+      "Block the lane",
+      "Stop suddenly anywhere"
+    ],
+    "answer": 1,
+    "explanation": "Il faut céder le passage en sécurité.",
+    "source": "practice-v1",
+    "explanation_en": "Give way to the emergency vehicle safely."
+  },
+  {
+    "id": "P009",
+    "question": "What is a pedestrian crossing for?",
+    "options": [
+      "Parking taxis",
+      "People crossing the road",
+      "Loading fuel",
+      "Washing vehicles"
+    ],
+    "answer": 1,
+    "explanation": "Un passage piéton sert aux piétons.",
+    "source": "practice-v1",
+    "explanation_en": "A pedestrian crossing is a designated place for people to cross the road."
+  },
+  {
+    "id": "P010",
+    "question": "How should you respond to an angry passenger?",
+    "options": [
+      "Shout back",
+      "Remain calm and listen politely",
+      "Ignore all concerns",
+      "Drive faster"
+    ],
+    "answer": 1,
+    "explanation": "Rester calme et écouter favorise la résolution.",
+    "source": "practice-v1",
+    "explanation_en": "Remain calm, listen and respond politely to a passenger's concern."
+  },
+  {
+    "id": "P011",
+    "question": "What does “receipt” mean?",
+    "options": [
+      "Road sign",
+      "Proof of payment",
+      "Driving licence",
+      "Car key"
+    ],
+    "answer": 1,
+    "explanation": "Receipt signifie reçu ou justificatif de paiement.",
+    "source": "practice-v1",
+    "explanation_en": "A receipt is proof of payment."
+  },
+  {
+    "id": "P012",
+    "question": "What is a seat belt used for?",
+    "options": [
+      "Cooling the car",
+      "Protecting occupants during a crash",
+      "Paying tolls",
+      "Opening the door"
+    ],
+    "answer": 1,
+    "explanation": "La ceinture réduit le risque de blessure.",
+    "source": "practice-v1",
+    "explanation_en": "A seat belt helps restrain an occupant during sudden braking or a collision."
+  },
+  {
+    "id": "P013",
+    "question": "What does “one-way street” mean?",
+    "options": [
+      "All vehicles park there",
+      "Traffic moves in only one permitted direction",
+      "No pedestrians allowed",
+      "Only buses may enter"
+    ],
+    "answer": 1,
+    "explanation": "Une rue à sens unique a un seul sens de circulation.",
+    "source": "practice-v1",
+    "explanation_en": "A one-way street allows traffic to travel in one direction."
+  },
+  {
+    "id": "P014",
+    "question": "What should you do if you do not know the route?",
+    "options": [
+      "Guess at random",
+      "Use a navigation system safely",
+      "Ask the passenger to drive",
+      "Ignore the destination"
+    ],
+    "answer": 1,
+    "explanation": "La navigation aide à trouver un trajet adapté.",
+    "source": "practice-v1",
+    "explanation_en": "Confirm the destination and use suitable navigation or ask for directions safely."
+  },
+  {
+    "id": "P015",
+    "question": "Why should the taxi interior be clean?",
+    "options": [
+      "To increase traffic",
+      "For passenger comfort and hygiene",
+      "To avoid paying tolls",
+      "To drive without fuel"
+    ],
+    "answer": 1,
+    "explanation": "La propreté contribue au confort et à l’hygiène.",
+    "source": "practice-v1",
+    "explanation_en": "A clean interior helps provide a comfortable and professional service."
+  },
+  {
+    "id": "P016",
+    "question": "What does “drop-off point” mean?",
+    "options": [
+      "A fuel station",
+      "A place where passengers get out",
+      "A mechanic",
+      "A police report"
+    ],
+    "answer": 1,
+    "explanation": "Drop-off point signifie lieu de dépose.",
+    "source": "practice-v1",
+    "explanation_en": "A drop-off point is the place where a passenger leaves the vehicle."
+  },
+  {
+    "id": "P017",
+    "question": "When should you use your turn indicator?",
+    "options": [
+      "Only after turning",
+      "Before changing direction or lanes",
+      "Only while parked",
+      "Never"
+    ],
+    "answer": 1,
+    "explanation": "Le clignotant prévient les autres usagers.",
+    "source": "practice-v1",
+    "explanation_en": "Use the indicator to signal an intended turn or lane change in advance."
+  },
+  {
+    "id": "P018",
+    "question": "What is the purpose of the rear-view mirror?",
+    "options": [
+      "To check fuel prices",
+      "To see traffic behind the vehicle",
+      "To pay by card",
+      "To measure speed"
+    ],
+    "answer": 1,
+    "explanation": "Le rétroviseur aide à surveiller l’arrière.",
+    "source": "practice-v1",
+    "explanation_en": "The rear-view mirror helps the driver observe traffic behind the vehicle."
+  },
+  {
+    "id": "P019",
+    "question": "What does “cashless payment” mean?",
+    "options": [
+      "Paying only in coins",
+      "Paying without physical cash",
+      "Not paying at all",
+      "Paying with fuel"
+    ],
+    "answer": 1,
+    "explanation": "Paiement sans espèces, par exemple par carte.",
+    "source": "practice-v1",
+    "explanation_en": "Cashless payment uses a card or electronic payment instead of notes and coins."
+  },
+  {
+    "id": "P020",
+    "question": "What should you do when feeling too tired to drive safely?",
+    "options": [
+      "Drink coffee and speed",
+      "Stop in a safe place and rest",
+      "Ignore tiredness",
+      "Close your eyes briefly"
+    ],
+    "answer": 1,
+    "explanation": "La fatigue est un risque majeur pour la conduite.",
+    "source": "practice-v1",
+    "explanation_en": "Stop somewhere safe and rest if you are too tired to drive safely."
+  },
+  {
+    "id": "V2-001",
+    "question": "A passenger says, 'Could you lower the air conditioning?' What should you do?",
+    "options": [
+      "Make the cabin less cold",
+      "Drive faster",
+      "Increase the fare",
+      "Open the boot"
+    ],
+    "answer": 0,
+    "explanation": "Le passager souhaite une climatisation moins froide.",
+    "source": "practice-v2",
+    "explanation_en": "Lower the air conditioning means make the cabin less cold in this context."
+  },
+  {
+    "id": "V2-002",
+    "question": "What does 'Please pull over' mean?",
+    "options": [
+      "Stop at a safe place beside the road",
+      "Overtake the next car",
+      "Reverse immediately",
+      "Speed up"
+    ],
+    "answer": 0,
+    "explanation": "Pull over signifie se ranger pour s’arrêter en sécurité.",
+    "source": "practice-v2",
+    "explanation_en": "Pull over means move to a safe place at the side of the road and stop."
+  },
+  {
+    "id": "V2-003",
+    "question": "Which greeting is most polite?",
+    "options": [
+      "Good morning. Where would you like to go?",
+      "What do you want?",
+      "Hurry up!",
+      "Get in now!"
+    ],
+    "answer": 0,
+    "explanation": "Une salutation et une question polie accueillent le client.",
+    "source": "practice-v2",
+    "explanation_en": "A greeting followed by a polite destination question welcomes the passenger."
+  },
+  {
+    "id": "V2-004",
+    "question": "A passenger asks, 'How long will it take?' They want to know the…",
+    "options": [
+      "Travel time",
+      "Driver's age",
+      "Payment method",
+      "Vehicle colour"
+    ],
+    "answer": 0,
+    "explanation": "How long demande une durée.",
+    "source": "practice-v2",
+    "explanation_en": "How long asks about duration or travel time."
+  },
+  {
+    "id": "V2-005",
+    "question": "What does 'luggage' mean?",
+    "options": [
+      "Bags and suitcases",
+      "Road signs",
+      "Taxi documents",
+      "Engine parts"
+    ],
+    "answer": 0,
+    "explanation": "Luggage désigne les bagages.",
+    "source": "practice-v2",
+    "explanation_en": "Luggage means bags and suitcases."
+  },
+  {
+    "id": "V2-006",
+    "question": "Which sentence offers help with bags?",
+    "options": [
+      "Would you like help with your luggage?",
+      "Where is your licence?",
+      "Why are you late?",
+      "Pay before entering."
+    ],
+    "answer": 0,
+    "explanation": "Would you like… est une proposition polie.",
+    "source": "practice-v2",
+    "explanation_en": "Would you like help is a polite offer of assistance."
+  },
+  {
+    "id": "V2-007",
+    "question": "A passenger says, 'I am in a hurry.' What is a suitable reply?",
+    "options": [
+      "I will take a suitable route and follow the speed limits.",
+      "I will ignore the traffic lights.",
+      "You must drive the taxi.",
+      "I will switch off the meter."
+    ],
+    "answer": 0,
+    "explanation": "Répondre au besoin du client tout en conduisant prudemment.",
+    "source": "practice-v2",
+    "explanation_en": "Acknowledge the passenger's urgency while continuing to drive safely and obey speed limits."
+  },
+  {
+    "id": "V2-008",
+    "question": "What is a 'round trip'?",
+    "options": [
+      "A journey to a place and back",
+      "A trip around a roundabout only",
+      "A one-way journey",
+      "A journey without a passenger"
+    ],
+    "answer": 0,
+    "explanation": "Round trip signifie aller-retour.",
+    "source": "practice-v2",
+    "explanation_en": "A round trip is a journey to a place and back."
+  },
+  {
+    "id": "V2-009",
+    "question": "What does 'available' mean on a taxi booking screen?",
+    "options": [
+      "Ready for use",
+      "Broken",
+      "Already paid",
+      "Closed permanently"
+    ],
+    "answer": 0,
+    "explanation": "Available signifie disponible.",
+    "source": "practice-v2",
+    "explanation_en": "Available means ready for use or booking."
+  },
+  {
+    "id": "V2-010",
+    "question": "Which question confirms a passenger's address?",
+    "options": [
+      "Could you confirm the building name, please?",
+      "How old is your building?",
+      "Do you own this road?",
+      "Why do you have a phone?"
+    ],
+    "answer": 0,
+    "explanation": "Confirmer le bâtiment évite une erreur de destination.",
+    "source": "practice-v2",
+    "explanation_en": "Confirming the building name helps establish the correct destination."
+  },
+  {
+    "id": "V2-011",
+    "question": "A customer says, 'Keep the change.' What do they mean?",
+    "options": [
+      "You may keep the remaining money",
+      "Change the destination",
+      "Replace the vehicle",
+      "Return all the money"
+    ],
+    "answer": 0,
+    "explanation": "Keep the change signifie garder la monnaie.",
+    "source": "practice-v2",
+    "explanation_en": "Keep the change means the driver may retain the remaining money."
+  },
+  {
+    "id": "V2-012",
+    "question": "The fare is 35 dirhams. The passenger gives 50. How much change is due?",
+    "options": [
+      "15 dirhams",
+      "25 dirhams",
+      "5 dirhams",
+      "85 dirhams"
+    ],
+    "answer": 0,
+    "explanation": "50 − 35 = 15 AED.",
+    "source": "practice-v2",
+    "explanation_en": "50 minus 35 equals 15 dirhams."
+  },
+  {
+    "id": "V2-013",
+    "question": "What does 'approximately' mean?",
+    "options": [
+      "About, but not exactly",
+      "Immediately",
+      "Never",
+      "Exactly double"
+    ],
+    "answer": 0,
+    "explanation": "Approximately signifie environ.",
+    "source": "practice-v2",
+    "explanation_en": "Approximately means about, rather than exactly."
+  },
+  {
+    "id": "V2-014",
+    "question": "What is the opposite of 'arrival'?",
+    "options": [
+      "Departure",
+      "Entrance",
+      "Journey",
+      "Booking"
+    ],
+    "answer": 0,
+    "explanation": "Arrival = arrivée ; departure = départ.",
+    "source": "practice-v2",
+    "explanation_en": "Departure means leaving; arrival means reaching a place."
+  },
+  {
+    "id": "V2-015",
+    "question": "Which word means 'réservation' in English?",
+    "options": [
+      "Booking",
+      "Breakdown",
+      "Baggage",
+      "Balance"
+    ],
+    "answer": 0,
+    "explanation": "Booking signifie réservation.",
+    "source": "practice-v2",
+    "explanation_en": "Booking means a reservation."
+  },
+  {
+    "id": "V2-016",
+    "question": "A passenger asks for the 'nearest' pharmacy. They want the pharmacy…",
+    "options": [
+      "Closest to their location",
+      "With the largest building",
+      "Farthest away",
+      "That opens next year"
+    ],
+    "answer": 0,
+    "explanation": "Nearest signifie le plus proche.",
+    "source": "practice-v2",
+    "explanation_en": "Nearest means closest to the current location."
+  },
+  {
+    "id": "V2-017",
+    "question": "What does 'entrance' mean?",
+    "options": [
+      "The way into a place",
+      "The way out only",
+      "The roof",
+      "The payment counter"
+    ],
+    "answer": 0,
+    "explanation": "Entrance = entrée.",
+    "source": "practice-v2",
+    "explanation_en": "An entrance is a way into a place."
+  },
+  {
+    "id": "V2-018",
+    "question": "What does 'exit' mean?",
+    "options": [
+      "The way out",
+      "The reception desk",
+      "The waiting area",
+      "The parking ticket"
+    ],
+    "answer": 0,
+    "explanation": "Exit = sortie.",
+    "source": "practice-v2",
+    "explanation_en": "An exit is a way out."
+  },
+  {
+    "id": "V2-019",
+    "question": "A passenger says, 'Take the next left.' Where should you turn?",
+    "options": [
+      "At the next permitted left turn",
+      "At the previous right turn",
+      "Anywhere immediately",
+      "At every junction"
+    ],
+    "answer": 0,
+    "explanation": "Next left désigne la prochaine possibilité de tourner à gauche.",
+    "source": "practice-v2",
+    "explanation_en": "The next left means the next permitted opportunity to turn left."
+  },
+  {
+    "id": "V2-020",
+    "question": "What does 'straight ahead' mean?",
+    "options": [
+      "Continue forward",
+      "Turn around",
+      "Turn right",
+      "Stop the engine"
+    ],
+    "answer": 0,
+    "explanation": "Straight ahead signifie tout droit.",
+    "source": "practice-v2",
+    "explanation_en": "Straight ahead means continue forwards without turning."
+  },
+  {
+    "id": "V2-021",
+    "question": "Which phrase asks a passenger to repeat politely?",
+    "options": [
+      "Could you say that again, please?",
+      "Speak properly!",
+      "You are wrong.",
+      "Do not talk."
+    ],
+    "answer": 0,
+    "explanation": "Demander de répéter avec courtoisie.",
+    "source": "practice-v2",
+    "explanation_en": "Could you say that again, please is a polite request for repetition."
+  },
+  {
+    "id": "V2-022",
+    "question": "You did not hear the hotel name clearly. What should you do?",
+    "options": [
+      "Ask the passenger to repeat or show the address",
+      "Guess a hotel",
+      "End the trip immediately",
+      "Ignore the request"
+    ],
+    "answer": 0,
+    "explanation": "Faire préciser le nom avant de choisir l’itinéraire.",
+    "source": "practice-v2",
+    "explanation_en": "Ask for clarification rather than guessing the hotel name."
+  },
+  {
+    "id": "V2-023",
+    "question": "A passenger asks, 'Can I pay by card?' What is the relevant information?",
+    "options": [
+      "Whether card payment is accepted",
+      "The car's engine size",
+      "The driver's nationality",
+      "The weather forecast"
+    ],
+    "answer": 0,
+    "explanation": "La question porte sur le moyen de paiement.",
+    "source": "practice-v2",
+    "explanation_en": "The question is about the available payment method."
+  },
+  {
+    "id": "V2-024",
+    "question": "What does 'traffic congestion' mean?",
+    "options": [
+      "Heavy traffic causing slow movement",
+      "An empty road",
+      "A clean windscreen",
+      "A free parking space"
+    ],
+    "answer": 0,
+    "explanation": "Traffic congestion signifie embouteillages.",
+    "source": "practice-v2",
+    "explanation_en": "Traffic congestion means heavy traffic that slows movement."
+  },
+  {
+    "id": "V2-025",
+    "question": "Which sentence explains a delay politely?",
+    "options": [
+      "I am sorry for the delay; traffic is heavy.",
+      "This is your fault.",
+      "Stop asking questions.",
+      "There is no road in this city."
+    ],
+    "answer": 0,
+    "explanation": "Informer le passager calmement de la cause du retard.",
+    "source": "practice-v2",
+    "explanation_en": "A calm explanation informs the passenger of the reason for the delay."
+  },
+  {
+    "id": "V2-026",
+    "question": "What is a 'shortcut'?",
+    "options": [
+      "A shorter route between places",
+      "A damaged tyre",
+      "A discount receipt",
+      "A short passenger"
+    ],
+    "answer": 0,
+    "explanation": "Shortcut = raccourci.",
+    "source": "practice-v2",
+    "explanation_en": "A shortcut is a shorter route between places."
+  },
+  {
+    "id": "V2-027",
+    "question": "What does 'toll' mean?",
+    "options": [
+      "A charge for using a road or crossing",
+      "A driver's meal",
+      "A free parking permit",
+      "A passenger's bag"
+    ],
+    "answer": 0,
+    "explanation": "Toll signifie péage.",
+    "source": "practice-v2",
+    "explanation_en": "A toll is a charge for using a road or crossing."
+  },
+  {
+    "id": "V2-028",
+    "question": "Which phrase offers a route choice?",
+    "options": [
+      "Would you prefer this route or the alternative?",
+      "You cannot choose anything.",
+      "I do not know any roads.",
+      "Please leave your bag here."
+    ],
+    "answer": 0,
+    "explanation": "Présenter les itinéraires permet de clarifier la préférence du client.",
+    "source": "practice-v2",
+    "explanation_en": "Offering route options clarifies the passenger's preference."
+  },
+  {
+    "id": "V2-029",
+    "question": "A passenger says, 'Please wait here for five minutes.' What do they request?",
+    "options": [
+      "A short wait at that location",
+      "A five-hour trip",
+      "An immediate departure",
+      "A different taxi model"
+    ],
+    "answer": 0,
+    "explanation": "Wait here signifie attendre ici.",
+    "source": "practice-v2",
+    "explanation_en": "Wait here for five minutes requests a short wait at that location."
+  },
+  {
+    "id": "V2-030",
+    "question": "What does 'cancel the booking' mean?",
+    "options": [
+      "End the reservation before using it",
+      "Confirm the destination",
+      "Extend the trip",
+      "Print a receipt"
+    ],
+    "answer": 0,
+    "explanation": "Cancel signifie annuler.",
+    "source": "practice-v2",
+    "explanation_en": "Cancel means call off the booking."
+  },
+  {
+    "id": "V2-031",
+    "question": "What does 'fully booked' mean?",
+    "options": [
+      "No reservations are available",
+      "All trips are free",
+      "The vehicle is new",
+      "The meter is broken"
+    ],
+    "answer": 0,
+    "explanation": "Fully booked signifie complet.",
+    "source": "practice-v2",
+    "explanation_en": "Fully booked means no further reservations are available."
+  },
+  {
+    "id": "V2-032",
+    "question": "Which sentence apologises for a mistake?",
+    "options": [
+      "I am sorry. Let me correct that.",
+      "You caused everything.",
+      "That is not my problem.",
+      "Do not complain."
+    ],
+    "answer": 0,
+    "explanation": "Reconnaître une erreur et proposer de la corriger.",
+    "source": "practice-v2",
+    "explanation_en": "Acknowledge the mistake and offer to correct it."
+  },
+  {
+    "id": "V2-033",
+    "question": "A passenger says, 'The music is too loud.' What is the best response?",
+    "options": [
+      "Lower the volume",
+      "Increase the volume",
+      "Sound the horn",
+      "End the journey"
+    ],
+    "answer": 0,
+    "explanation": "Baisser le volume répond à la demande du client.",
+    "source": "practice-v2",
+    "explanation_en": "Lowering the volume responds to the passenger's request."
+  },
+  {
+    "id": "V2-034",
+    "question": "What does 'volume' refer to when discussing the radio?",
+    "options": [
+      "Sound level",
+      "Fuel level",
+      "Trip distance",
+      "Tyre size"
+    ],
+    "answer": 0,
+    "explanation": "Pour une radio, volume désigne le niveau sonore.",
+    "source": "practice-v2",
+    "explanation_en": "For a radio, volume means sound level."
+  },
+  {
+    "id": "V2-035",
+    "question": "Which question asks about passenger comfort?",
+    "options": [
+      "Is the temperature comfortable for you?",
+      "Why did you book a taxi?",
+      "How much is your phone?",
+      "Do you know my manager?"
+    ],
+    "answer": 0,
+    "explanation": "Cette question vérifie le confort du passager.",
+    "source": "practice-v2",
+    "explanation_en": "This question checks whether the passenger is comfortable with the cabin temperature."
+  },
+  {
+    "id": "V2-036",
+    "question": "What is a 'complaint'?",
+    "options": [
+      "An expression of dissatisfaction",
+      "A booking confirmation",
+      "A route map",
+      "A payment receipt"
+    ],
+    "answer": 0,
+    "explanation": "Complaint = réclamation.",
+    "source": "practice-v2",
+    "explanation_en": "A complaint is an expression of dissatisfaction."
+  },
+  {
+    "id": "V2-037",
+    "question": "What does 'customer service' mean?",
+    "options": [
+      "Helping and assisting customers",
+      "Repairing only the engine",
+      "Washing roads",
+      "Selling driving licences"
+    ],
+    "answer": 0,
+    "explanation": "Customer service signifie service à la clientèle.",
+    "source": "practice-v2",
+    "explanation_en": "Customer service means helping and assisting customers."
+  },
+  {
+    "id": "V2-038",
+    "question": "A passenger asks for a 'quiet journey'. They prefer…",
+    "options": [
+      "Little conversation and noise",
+      "Very loud music",
+      "Frequent horn use",
+      "Many extra stops"
+    ],
+    "answer": 0,
+    "explanation": "Quiet signifie calme ou silencieux.",
+    "source": "practice-v2",
+    "explanation_en": "Quiet means little noise or conversation."
+  },
+  {
+    "id": "V2-039",
+    "question": "What does 'professional' behaviour include?",
+    "options": [
+      "Being respectful and reliable",
+      "Arguing with every customer",
+      "Sharing private customer details",
+      "Making insulting jokes"
+    ],
+    "answer": 0,
+    "explanation": "Un comportement professionnel repose sur le respect et la fiabilité.",
+    "source": "practice-v2",
+    "explanation_en": "Professional behaviour includes respect and reliability."
+  },
+  {
+    "id": "V2-040",
+    "question": "Which farewell is appropriate at the end of a trip?",
+    "options": [
+      "Thank you. Have a nice day!",
+      "Never come back!",
+      "Give me your phone!",
+      "Why are you leaving?"
+    ],
+    "answer": 0,
+    "explanation": "Remercier et souhaiter une bonne journée est approprié.",
+    "source": "practice-v2",
+    "explanation_en": "Thanking the passenger and wishing them a nice day is a suitable farewell."
+  },
+  {
+    "id": "V2-041",
+    "question": "A sign says 'Road closed'. What does it mean?",
+    "options": [
+      "The road cannot be used beyond the closure",
+      "The road is free of traffic forever",
+      "Parking is always allowed",
+      "The road has no speed limit"
+    ],
+    "answer": 0,
+    "explanation": "Road closed signifie route fermée.",
+    "source": "practice-v2",
+    "explanation_en": "Road closed means the road cannot be used beyond the closure."
+  },
+  {
+    "id": "V2-042",
+    "question": "What does 'diversion' mean on a road sign?",
+    "options": [
+      "An alternative route",
+      "A fuel station",
+      "A taxi discount",
+      "A passenger entrance"
+    ],
+    "answer": 0,
+    "explanation": "Diversion désigne une déviation.",
+    "source": "practice-v2",
+    "explanation_en": "A diversion is an alternative route around a closure or obstruction."
+  },
+  {
+    "id": "V2-043",
+    "question": "What does 'junction' mean?",
+    "options": [
+      "A place where roads meet",
+      "A type of suitcase",
+      "A payment machine",
+      "A hotel room"
+    ],
+    "answer": 0,
+    "explanation": "Junction = intersection.",
+    "source": "practice-v2",
+    "explanation_en": "A junction is a place where roads meet."
+  },
+  {
+    "id": "V2-044",
+    "question": "What is a 'lane'?",
+    "options": [
+      "A marked part of a road for a line of traffic",
+      "A taxi receipt",
+      "A passenger seat",
+      "A type of fuel"
+    ],
+    "answer": 0,
+    "explanation": "Lane désigne une voie de circulation.",
+    "source": "practice-v2",
+    "explanation_en": "A lane is a marked part of a road for a line of traffic."
+  },
+  {
+    "id": "V2-045",
+    "question": "What is the 'pavement' in British English?",
+    "options": [
+      "The path beside the road for pedestrians",
+      "The middle traffic lane",
+      "The car's bonnet",
+      "A parking meter"
+    ],
+    "answer": 0,
+    "explanation": "Pavement signifie trottoir en anglais britannique.",
+    "source": "practice-v2",
+    "explanation_en": "In British English, pavement means the pedestrian path beside the road."
+  },
+  {
+    "id": "V2-046",
+    "question": "What does 'U-turn' mean?",
+    "options": [
+      "A turn to travel in the opposite direction",
+      "A small turn to the left only",
+      "Stopping at a hotel",
+      "Changing the radio station"
+    ],
+    "answer": 0,
+    "explanation": "U-turn signifie demi-tour.",
+    "source": "practice-v2",
+    "explanation_en": "A U-turn changes direction so the vehicle travels back the opposite way."
+  },
+  {
+    "id": "V2-047",
+    "question": "A passenger asks to go to the 'departures terminal'. Where are they going?",
+    "options": [
+      "The airport area for people leaving on flights",
+      "The baggage repair workshop",
+      "The taxi garage",
+      "A train maintenance depot"
+    ],
+    "answer": 0,
+    "explanation": "Departures correspond aux départs à l’aéroport.",
+    "source": "practice-v2",
+    "explanation_en": "Departures is the airport area for passengers leaving on flights."
+  },
+  {
+    "id": "V2-048",
+    "question": "What does 'domestic flight' mean?",
+    "options": [
+      "A flight within one country",
+      "A flight only for taxi drivers",
+      "A flight without luggage",
+      "A cancelled flight"
+    ],
+    "answer": 0,
+    "explanation": "Domestic flight signifie vol intérieur.",
+    "source": "practice-v2",
+    "explanation_en": "A domestic flight operates within one country."
+  },
+  {
+    "id": "V2-049",
+    "question": "What is a 'landmark'?",
+    "options": [
+      "An easily recognised place used to describe a location",
+      "A driving penalty",
+      "A tyre mark only",
+      "A payment password"
+    ],
+    "answer": 0,
+    "explanation": "Landmark désigne un point de repère.",
+    "source": "practice-v2",
+    "explanation_en": "A landmark is a recognisable place used as a reference for a location."
+  },
+  {
+    "id": "V2-050",
+    "question": "What does 'opposite the bank' mean?",
+    "options": [
+      "Across from the bank",
+      "Inside the bank",
+      "On the bank's roof",
+      "Far beyond every bank"
+    ],
+    "answer": 0,
+    "explanation": "Opposite signifie en face de.",
+    "source": "practice-v2",
+    "explanation_en": "Opposite means across from."
+  },
+  {
+    "id": "V2-051",
+    "question": "What does 'between the hotel and the mall' describe?",
+    "options": [
+      "A location with those two places on either side",
+      "A place inside the hotel only",
+      "A place behind every mall",
+      "An airport departure gate"
+    ],
+    "answer": 0,
+    "explanation": "Between signifie entre.",
+    "source": "practice-v2",
+    "explanation_en": "Between describes a position with the two named places on either side."
+  },
+  {
+    "id": "V2-052",
+    "question": "What does 'behind the building' mean?",
+    "options": [
+      "At the back of the building",
+      "At the main front door",
+      "On the building's top floor",
+      "Inside a taxi"
+    ],
+    "answer": 0,
+    "explanation": "Behind = derrière.",
+    "source": "practice-v2",
+    "explanation_en": "Behind means at the back of."
+  },
+  {
+    "id": "V2-053",
+    "question": "What does 'next to the hospital' mean?",
+    "options": [
+      "Beside the hospital",
+      "Very far from the hospital",
+      "Under the hospital",
+      "Inside an ambulance"
+    ],
+    "answer": 0,
+    "explanation": "Next to signifie à côté de.",
+    "source": "practice-v2",
+    "explanation_en": "Next to means beside."
+  },
+  {
+    "id": "V2-054",
+    "question": "A passenger says, 'I have an appointment at nine.' What is an appointment?",
+    "options": [
+      "An arranged meeting at a particular time",
+      "A road closure",
+      "A taxi licence",
+      "An unpaid toll"
+    ],
+    "answer": 0,
+    "explanation": "Appointment signifie rendez-vous.",
+    "source": "practice-v2",
+    "explanation_en": "An appointment is an arranged meeting at a specific time."
+  },
+  {
+    "id": "V2-055",
+    "question": "What does 'on time' mean?",
+    "options": [
+      "At the expected or arranged time",
+      "After midnight only",
+      "Without a destination",
+      "For no charge"
+    ],
+    "answer": 0,
+    "explanation": "On time signifie à l’heure.",
+    "source": "practice-v2",
+    "explanation_en": "On time means at the expected or arranged time."
+  },
+  {
+    "id": "V2-056",
+    "question": "What does 'delayed' mean?",
+    "options": [
+      "Later than expected",
+      "Earlier than expected",
+      "Already cancelled in every case",
+      "Paid in cash"
+    ],
+    "answer": 0,
+    "explanation": "Delayed signifie retardé.",
+    "source": "practice-v2",
+    "explanation_en": "Delayed means later than expected."
+  },
+  {
+    "id": "V2-057",
+    "question": "Which sentence gives an estimated arrival time?",
+    "options": [
+      "We should arrive in about fifteen minutes.",
+      "The taxi is blue.",
+      "Your suitcase is heavy.",
+      "My shift starts tomorrow."
+    ],
+    "answer": 0,
+    "explanation": "Cette phrase donne une estimation du temps avant l’arrivée.",
+    "source": "practice-v2",
+    "explanation_en": "About fifteen minutes gives an estimated time until arrival."
+  },
+  {
+    "id": "V2-058",
+    "question": "What does 'midnight' mean?",
+    "options": [
+      "12 o'clock at night",
+      "12 o'clock at noon",
+      "6 o'clock in the morning",
+      "3 o'clock in the afternoon"
+    ],
+    "answer": 0,
+    "explanation": "Midnight = minuit.",
+    "source": "practice-v2",
+    "explanation_en": "Midnight is 12 o'clock at night."
+  },
+  {
+    "id": "V2-059",
+    "question": "What does 'quarter past eight' mean?",
+    "options": [
+      "8:15",
+      "8:45",
+      "7:45",
+      "8:30"
+    ],
+    "answer": 0,
+    "explanation": "Quarter past correspond à quinze minutes après l’heure.",
+    "source": "practice-v2",
+    "explanation_en": "Quarter past eight means fifteen minutes after eight: 8:15."
+  },
+  {
+    "id": "V2-060",
+    "question": "What does 'half past six' mean?",
+    "options": [
+      "6:30",
+      "6:15",
+      "5:30",
+      "6:45"
+    ],
+    "answer": 0,
+    "explanation": "Half past signifie trente minutes après l’heure.",
+    "source": "practice-v2",
+    "explanation_en": "Half past six means thirty minutes after six: 6:30."
+  },
+  {
+    "id": "V2-061",
+    "question": "A passenger says, 'I feel sick.' What should you ask?",
+    "options": [
+      "Would you like me to stop somewhere safe?",
+      "Can you drive instead?",
+      "Why did you bring luggage?",
+      "Will you pay double?"
+    ],
+    "answer": 0,
+    "explanation": "Demander si le passager souhaite un arrêt en sécurité.",
+    "source": "practice-v2",
+    "explanation_en": "Ask whether the passenger wants you to stop somewhere safe."
+  },
+  {
+    "id": "V2-062",
+    "question": "What does 'emergency' mean?",
+    "options": [
+      "A serious situation requiring immediate help",
+      "A normal booking receipt",
+      "A hotel discount",
+      "A planned lunch break"
+    ],
+    "answer": 0,
+    "explanation": "Emergency signifie urgence.",
+    "source": "practice-v2",
+    "explanation_en": "An emergency is a serious situation requiring immediate help."
+  },
+  {
+    "id": "V2-063",
+    "question": "What does 'breakdown' mean for a vehicle?",
+    "options": [
+      "A mechanical failure that prevents normal operation",
+      "A discount on the fare",
+      "A successful booking",
+      "An airport queue"
+    ],
+    "answer": 0,
+    "explanation": "Breakdown désigne une panne.",
+    "source": "practice-v2",
+    "explanation_en": "A breakdown is a mechanical failure that prevents normal vehicle operation."
+  },
+  {
+    "id": "V2-064",
+    "question": "What is a 'flat tyre'?",
+    "options": [
+      "A tyre with insufficient air to function normally",
+      "A new steering wheel",
+      "A full fuel tank",
+      "A clean rear window"
+    ],
+    "answer": 0,
+    "explanation": "Flat tyre signifie pneu à plat.",
+    "source": "practice-v2",
+    "explanation_en": "A flat tyre has insufficient air to function normally."
+  },
+  {
+    "id": "V2-065",
+    "question": "What does 'fuel' mean?",
+    "options": [
+      "The substance used to power an engine",
+      "A passenger's address",
+      "A receipt number",
+      "A hotel entrance"
+    ],
+    "answer": 0,
+    "explanation": "Fuel signifie carburant.",
+    "source": "practice-v2",
+    "explanation_en": "Fuel is the substance used to power an engine."
+  },
+  {
+    "id": "V2-066",
+    "question": "What does 'refuel' mean?",
+    "options": [
+      "Add fuel to a vehicle",
+      "Wash the seats",
+      "Replace the radio",
+      "Print a map"
+    ],
+    "answer": 0,
+    "explanation": "Refuel signifie faire le plein ou ajouter du carburant.",
+    "source": "practice-v2",
+    "explanation_en": "Refuel means add fuel to the vehicle."
+  },
+  {
+    "id": "V2-067",
+    "question": "What is the 'boot' of a car in British English?",
+    "options": [
+      "The luggage compartment",
+      "The steering wheel",
+      "The front windscreen",
+      "The brake pedal"
+    ],
+    "answer": 0,
+    "explanation": "Boot désigne le coffre en anglais britannique.",
+    "source": "practice-v2",
+    "explanation_en": "In British English, boot means the luggage compartment."
+  },
+  {
+    "id": "V2-068",
+    "question": "What is a 'windscreen'?",
+    "options": [
+      "The front glass of a vehicle",
+      "The luggage compartment",
+      "A seat adjustment lever",
+      "A fuel cap"
+    ],
+    "answer": 0,
+    "explanation": "Windscreen signifie pare-brise.",
+    "source": "practice-v2",
+    "explanation_en": "The windscreen is the front glass of a vehicle."
+  },
+  {
+    "id": "V2-069",
+    "question": "What do 'wipers' do?",
+    "options": [
+      "Clear rain or water from the windscreen",
+      "Inflate the tyres",
+      "Cool the engine",
+      "Measure the fare"
+    ],
+    "answer": 0,
+    "explanation": "Les essuie-glaces dégagent l’eau du pare-brise.",
+    "source": "practice-v2",
+    "explanation_en": "Wipers clear rain or water from the windscreen."
+  },
+  {
+    "id": "V2-070",
+    "question": "What does 'maintenance' mean?",
+    "options": [
+      "Work to keep equipment in good condition",
+      "A passenger's reservation",
+      "A shopping discount",
+      "A road's nickname"
+    ],
+    "answer": 0,
+    "explanation": "Maintenance signifie entretien.",
+    "source": "practice-v2",
+    "explanation_en": "Maintenance is work carried out to keep equipment in good condition."
+  },
+  {
+    "id": "V2-071",
+    "question": "A passenger says, 'I left my wallet at home.' What is a wallet?",
+    "options": [
+      "A small holder for money and cards",
+      "A large suitcase",
+      "A taxi roof sign",
+      "A vehicle registration plate"
+    ],
+    "answer": 0,
+    "explanation": "Wallet signifie portefeuille.",
+    "source": "practice-v2",
+    "explanation_en": "A wallet is a small holder for money and cards."
+  },
+  {
+    "id": "V2-072",
+    "question": "What does 'valuable belongings' mean?",
+    "options": [
+      "Personal items worth money or important to their owner",
+      "Only empty bottles",
+      "Road markings",
+      "Taxi cleaning products"
+    ],
+    "answer": 0,
+    "explanation": "Belongings signifie effets personnels ; valuable = précieux.",
+    "source": "practice-v2",
+    "explanation_en": "Valuable belongings are personal items worth money or important to their owner."
+  },
+  {
+    "id": "V2-073",
+    "question": "Which phrase reminds a passenger to check their possessions?",
+    "options": [
+      "Please make sure you have all your belongings.",
+      "Please leave your wallet behind.",
+      "Your bags are now mine.",
+      "Do not look at your seat."
+    ],
+    "answer": 0,
+    "explanation": "Inviter le passager à vérifier ses affaires avant de partir.",
+    "source": "practice-v2",
+    "explanation_en": "Remind the passenger to check that they have all their possessions."
+  },
+  {
+    "id": "V2-074",
+    "question": "What does 'confidential' mean?",
+    "options": [
+      "Private and not to be shared without permission",
+      "Suitable for public advertising",
+      "Always incorrect",
+      "Written in large letters"
+    ],
+    "answer": 0,
+    "explanation": "Confidential signifie à garder privé.",
+    "source": "practice-v2",
+    "explanation_en": "Confidential means private and not to be shared without permission."
+  },
+  {
+    "id": "V2-075",
+    "question": "What does 'permission' mean?",
+    "options": [
+      "Approval to do something",
+      "A printed receipt",
+      "A road junction",
+      "A vehicle fault"
+    ],
+    "answer": 0,
+    "explanation": "Permission signifie autorisation.",
+    "source": "practice-v2",
+    "explanation_en": "Permission means approval to do something."
+  },
+  {
+    "id": "V2-076",
+    "question": "A passenger asks for an 'accessible entrance'. What do they need?",
+    "options": [
+      "An entrance suitable for their access needs",
+      "A secret roof entrance",
+      "An entrance for staff only",
+      "A closed service gate"
+    ],
+    "answer": 0,
+    "explanation": "Accessible désigne ici une entrée adaptée aux besoins d’accès du client.",
+    "source": "practice-v2",
+    "explanation_en": "An accessible entrance is suitable for the passenger's access needs."
+  },
+  {
+    "id": "V2-077",
+    "question": "Which question offers assistance respectfully?",
+    "options": [
+      "How can I help you?",
+      "Why can you not do it yourself?",
+      "Are you always this slow?",
+      "Can you stop needing help?"
+    ],
+    "answer": 0,
+    "explanation": "Demander comment aider permet de respecter le besoin exprimé.",
+    "source": "practice-v2",
+    "explanation_en": "Ask how you can help rather than making assumptions."
+  },
+  {
+    "id": "V2-078",
+    "question": "What does 'queue' mean?",
+    "options": [
+      "A line of people or vehicles waiting",
+      "A car engine",
+      "An electronic receipt",
+      "A sudden rain shower"
+    ],
+    "answer": 0,
+    "explanation": "Queue signifie file d’attente.",
+    "source": "practice-v2",
+    "explanation_en": "A queue is a line of people or vehicles waiting."
+  },
+  {
+    "id": "V2-079",
+    "question": "What does 'shift' mean in a work schedule?",
+    "options": [
+      "A scheduled period of work",
+      "A passenger discount",
+      "A taxi colour",
+      "A driving licence number"
+    ],
+    "answer": 0,
+    "explanation": "Shift signifie période de travail ou service.",
+    "source": "practice-v2",
+    "explanation_en": "A shift is a scheduled period of work."
+  },
+  {
+    "id": "V2-080",
+    "question": "A passenger says, 'Please send me an electronic receipt.' What do they request?",
+    "options": [
+      "A digital proof of payment",
+      "A new booking",
+      "A paper map only",
+      "A vehicle inspection"
+    ],
+    "answer": 0,
+    "explanation": "Electronic receipt signifie reçu numérique.",
+    "source": "practice-v2",
+    "explanation_en": "An electronic receipt is digital proof of payment."
+  }
+]
